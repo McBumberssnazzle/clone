@@ -1,0 +1,13 @@
+<!-- This is the second page of the website -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Budgett's Frog Care and Husbandry</title>
+</head>
+<body>
+    <img src="/pics/hands.png" alt="Again picture of a Budgett's frog">
+  <h1>Budgett's Frog Care and Husbandry</h1>
+  <p>This page is a guide to the care and husbandry of Budgett's frogs. Here, you will find information on the proper setup, diet, and health care for these unique and fascinating creatures.</p>
+  <a href="index.html">Return to the main page</a>
+</body>
+</html>
